@@ -1,4 +1,4 @@
-# lifecycle
+# Lifecycle
 
 > Nuxt.js Lifecycle Hooks
 
